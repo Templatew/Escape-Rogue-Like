@@ -1,0 +1,8 @@
+Marche avec:
+
+Python 3.10.4
+
+Modules requis:
+
+pathfinding==1.0.1
+pygame==2.1.2

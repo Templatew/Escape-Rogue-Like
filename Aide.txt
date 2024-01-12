@@ -1,0 +1,47 @@
+        Lancer le programme:
+        -------------------
+
+--> Vérifiez si vous possédez les prérequis (Requis.txt)
+--> lancer Main.py
+--> Ce programme a besoin d'un peu de temps pour se lancer
+    (intel core i5-11400: ~0.4s)
+    (intel core i5-5300u: <2s)
+
+
+            Déplacement:
+            -----------
+             (Key pad)
+      z        7 8 9         ^
+      |         \|/          |
+    q-@-d      4-@-6       <-@->
+      |         /|\          |
+      s        1 2 3         V
+
+
+Commande    Touche
+--------    ------
+
+Quitter      Echap
+Help          h
+Inventaire    i
+Quadrillage   g
+repos         r
+
+#Magie (Not key pad)
+tp            1
+heal          2
+Invisibilité  3
+Invincibilité 4
+Super Force   5
+Vision        6
+fireball      Clique droit sur mob
+arrow  	      Clique gauche sur mob
+
+
+#Cheats
+Brouillard    n
+Invincibilité v
+heal/mana     m 
+kill          k 
+échelle       l 
+
