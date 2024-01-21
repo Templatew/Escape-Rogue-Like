@@ -1,4 +1,4 @@
-![image](https://github.com/Templatew/Escape-Rogue-Like/assets/96289463/ba1a5f85-cd90-4e7b-881e-7fe3f4e07307)
+
 # Escape - A Python Rogue-like Game
 
 ## Overview
@@ -43,3 +43,12 @@ To start your adventure in "Escape", follow these simple steps:
 ## Gameplay Instructions
 
 For detailed information on game controls and commands, please refer to the `Aide.txt` file. This will provide you with all the necessary guidance to navigate and enjoy the game effectively.
+
+
+## Gallery
+
+![image](https://github.com/Templatew/Escape-Rogue-Like/assets/96289463/ba1a5f85-cd90-4e7b-881e-7fe3f4e07307)
+![image](https://github.com/Templatew/Escape-Rogue-Like/assets/96289463/0d579f77-3e29-4c33-baa5-ff96d272d854)
+![image](https://github.com/Templatew/Escape-Rogue-Like/assets/96289463/1ab8c628-91ff-4cb7-b541-9b8b09224b56)
+
+
