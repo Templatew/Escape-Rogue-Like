@@ -10,7 +10,26 @@ To ensure a smooth gaming experience, please refer to the `Requis.txt` file for 
 
 ## Installation
 
-Before you can play the game, make sure you have Python and Pygame installed. Instructions for installing these can be found in `Requis.txt`.
+Before you can play the game, make sure you have Python, Pygame, and Pathfinder installed. Follow these steps to set up your environment:
+
+1. **Install Python:**
+   - Download and install Python from [python.org](https://www.python.org/downloads/).
+   - During the installation, ensure to select the option to 'Add Python to PATH'.
+
+2. **Install Pygame:**
+   - Open your command prompt (cmd) or terminal.
+   - Run the following command:
+     ```
+     pip install pygame
+     ```
+   - This will download and install Pygame and its dependencies.
+
+3. **Install Pathfinder:**
+   - Open your command prompt (cmd) or terminal.
+   - Run the following command:
+     ```
+     pip install pathfinder
+     ```
 
 ## Running the Game
 
@@ -18,7 +37,7 @@ To start your adventure in "Escape", follow these simple steps:
 
 1. Confirm that all prerequisites are installed by checking `Requis.txt`.
 2. Run `Main.py` to launch the game.
-   - Note: The program's launch time may vary depending on your system specifications. It typically takes around 0.4 seconds on an Intel Core i5-11400 and less than 2 seconds on an Intel Core i5-5300U.
+   - Note: The program's launch time may vary depending on your system specifications.
 
 ## Gameplay Instructions
 
