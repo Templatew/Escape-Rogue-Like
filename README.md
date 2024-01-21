@@ -11,7 +11,7 @@ To ensure a smooth gaming experience, please refer to the `Requis.txt` file for 
 
 ## Installation
 
-Before you can play the game, make sure you have Python, Pygame, and Pathfinder installed. Follow these steps to set up your environment:
+Before you can play the game, make sure you have Python, Pygame, and Pathfinding installed. Follow these steps to set up your environment:
 
 1. **Install Python:**
    - Download and install Python from [python.org](https://www.python.org/downloads/).
