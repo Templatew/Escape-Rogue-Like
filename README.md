@@ -24,11 +24,11 @@ Before you can play the game, make sure you have Python, Pygame, and Pathfinder 
      ```
    - This will download and install Pygame and its dependencies.
 
-3. **Install Pathfinder:**
+3. **Install Pathfinding:**
    - Open your command prompt (cmd) or terminal.
    - Run the following command:
      ```
-     pip install pathfinder
+     pip install pathfinding
      ```
 
 ## Running the Game
